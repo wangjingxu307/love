@@ -1,0 +1,118 @@
+.mainframe{
+	width: 1100px;
+	height: 2703px;
+	margin:20px auto;
+	color:#EDEFF0;
+	visibility: hidden;
+    font-family: Tahoma, Helvetica, Arial, sans-serif;
+}
+.title{
+	width: 1058px;
+	height: 52px;
+	margin:0 auto;
+	line-height: 52px;
+	font-family: 微软雅黑,Tohoma;
+	font-size: 26px;
+	color: #2b9de6;
+	/*border-color: #1f70bb;*/
+	border-bottom: 2px solid #1f70bb;
+}
+.title:hover{
+	color:#70CCFF;
+}
+.message{
+	width: 1058px;
+	height: 35px;
+	margin: 0 auto;
+	line-height: 35px;
+	color: #eee;
+	border-bottom: 2px solid #1f70bb;
+	font-family:微软雅黑, Tohoma;
+}
+.info{
+	width: 1058px;
+	height: 140px;
+	color: #EDEFF0;
+	margin: 0 auto;
+	line-height: 40px;
+	border-bottom: 2px solid #1f70bb;
+	font-size: 12px;
+}
+.content{
+	width: 1058px;
+	height: 100px;
+	word-break: break-all;
+	margin: 0 auto;
+	border: 2px solid #1f70bb;
+	border-top: 0px;
+	background-color: #e2e2e2;
+	color: black;
+	text-indent: 2px;
+	font-size: 14px;
+}
+.subbtn{
+	width: 72px;
+	height: 28px;
+	line-height: 28px;
+	font-size: 14px;
+	border-radius: 2px;
+	background-color: #46B2EF;
+	color: #FFFFFF;
+    border: 1px solid #3686B3;
+    cursor:pointer;
+    margin-left: 20px;
+    margin-bottom: 50px;
+	margin-top: 10px;
+}
+.subbtn:hover{
+	background-color: #1a88cf;
+}
+.numofmessage{
+	width: 1058px;
+	height: 20px;
+	color: #666666;
+	margin: 0 auto;
+	line-height: 20px;
+	border-bottom: 2px solid #1f70bb;
+	font-family:微软雅黑, Tohoma;
+	padding-bottom: 10px;
+	font-size: 24px;
+}
+.msgFrame{
+	width: 1058px;
+	height: 2200px;
+	margin: 0 auto;
+}
+.content_1{
+	width: 1058px;
+	height: 150px;
+	color: #666666;
+	margin: 0 auto;
+	border-bottom: 2px solid #1f70bb;
+}
+.name{
+	width: 50px;
+	height: 50px;
+	margin: 20px 20px;
+	border-radius: 5px;
+}
+a{
+	color: #70CCFF;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+.conInfo{
+   width: 100%;
+   height: 50px;
+	padding-top: 30px;
+   font-size: 22px;
+}
+.time{
+   width: 100%;
+   height: 20px;
+   font-size: 12px;
+	padding-bottom: 20px;
+   color: #5187e3;
+}
